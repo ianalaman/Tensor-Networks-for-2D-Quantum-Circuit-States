@@ -1,0 +1,8 @@
+# Scientific Computing & Tensor Operations (for classical contraction)
+numpy>=1.24.0       # Essential for matrix operations (MPS/MPO tensors)
+scipy>=1.10.0       # For sparse linear algebra and optimization routines
+# or alternatively: quimb (excellent for 2D tensor networks/PEPS)
+
+# Visualization & Notebooks
+matplotlib          # For plotting accuracy vs bond dimension
+jupyter             # For running the .ipynb notebooks
